@@ -1,41 +1,42 @@
 # To-Do-List
 A comprehensive web application that allows users to create and manage multiple countdown timers simultaneously for tracking various upcoming events.
 Features
-Event Management:
 
-Add unlimited events with custom names, dates, and times
-Individual pause/resume controls for each event
-Manual completion button to mark events as done early
-Delete events functionality
+# Event Management:
 
-Visual Interface:
+1.Add unlimited events with custom names, dates, and times
+2.Individual pause/resume controls for each event
+3.Manual completion button to mark events as done early
+4.Delete events functionality
 
-Responsive card-based layout displaying all events
-Real-time countdown display (days, hours, minutes, seconds)
-Animated progress circles for each time unit
-Color-coded status indicators (Running/Paused/Completed/Finished)
+# Visual Interface:
 
-Statistics Dashboard:
+1.Responsive card-based layout displaying all events
+2.Real-time countdown display (days, hours, minutes, seconds)
+3.Animated progress circles for each time unit
+4.Color-coded status indicators (Running/Paused/Completed/Finished)
 
-Live statistics showing total, active, completed, and finished events
-Real-time updates as event status changes
+# Statistics Dashboard:
 
-Audio & Visual Effects:
+1.Live statistics showing total, active, completed, and finished events
+2.Real-time updates as event status changes
 
-Optional sound notifications for countdown milestones
-Confetti celebration animations when events finish or are completed
-Smooth animations and hover effects throughout the interface
+# Audio & Visual Effects:
 
-User Experience:
+1.Optional sound notifications for countdown milestones
+2.Confetti celebration animations when events finish or are completed
+3.Smooth animations and hover effects throughout the interface
 
-Keyboard shortcuts (Ctrl+Enter to add events, Escape to clear form)
-Auto-save functionality to preserve events
-Mobile-responsive design
-Glassmorphism UI with gradient backgrounds
+# User Experience:
 
-Technical Implementation:
+1.Keyboard shortcuts (Ctrl+Enter to add events, Escape to clear form)
+2.Auto-save functionality to preserve events
+3.Mobile-responsive design
+4.Glassmorphism UI with gradient backgrounds
 
-Built with HTML, CSS, and vanilla JavaScript
-Memory-based data storage
-Individual timer intervals for each event
-Page visibility handling for accurate timing
+# Technical Implementation:
+
+1.Built with HTML, CSS, and vanilla JavaScript
+2.Memory-based data storage
+3.Individual timer intervals for each event
+4.Page visibility handling for accurate timing
